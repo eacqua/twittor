@@ -1,14 +1,11 @@
 {
-    {
-        "name": "Medtech",
-        "short_name": "Medtech",
-        "theme_color": "#f49c32",
-        "background_color": "#F49C32",
-        "display": "fullscreen",
-        "orientation": "portrait",
-        "scope": "/",
-        "start_url": "/"
-    }
+    "short_name": "TwittorMedtech",
+    "name": "Twittor para héroes",
+    "start_url": "index.html",
+    "background_color": "#3498db",
+    "display": "standalone",
+    "theme_color": "#3498db",
+    "orientation": "portrait",
     "icons": [{
             "src": "img/icons/icon-72x72.png",
             "type": "image/png",
